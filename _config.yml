@@ -1,0 +1,14 @@
+layout_spectrum: 0.6563484058715403
+typography_spectrum: 0.8672840734943748
+color:
+  brandStrength: 0.22188648395240307
+  lightness: 0.6998857101425529
+  saturation: 0.8050934022758156
+  rhythmicContrast: 0.8611845423001796
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: steady randomness
